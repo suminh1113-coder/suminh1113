@@ -34,4 +34,4 @@
 ---
 
 ### 📊 Github Stats
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=수민님의_아이디&show_icons=true&theme=radical)
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminh1113&show_icons=true&theme=radical)
