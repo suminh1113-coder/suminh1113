@@ -1,35 +1,37 @@
-# 👋 안녕하세요, 정수민입니다!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Sumin's%20Space&fontSize=70" />
-</p>
+# 👋 안녕하세요, 게임 개발자를 꿈꾸는 정수민입니다!
 
 ### 🏫 About Me
 - 🎓 **대덕소프트웨어마이스터고등학교** 1학년 재학 중
-- 💻 세상을 바꾸는 코딩을 배우고 있는 새내기 개발자입니다.
+- 🎮 **Game Development** 전공 희망
+- 🕊️ 게임 개발 동아리 **[실낙원]** 소속
 
 ---
 
 ### 🎨 Interests & Hobbies
-서브컬쳐와 음악, 그리고 게임에 진심입니다! 
+좋아하는 것에서 영감을 얻어 코드로 구현하는 것을 즐깁니다.
 
-* **Music:** 보컬로이드(Vocaloid) 노래를 즐겨 듣습니다. 🎵
-* **Culture:** 다양한 서브컬쳐 콘텐츠를 좋아해요.
-* **Gaming:** 게임을 무척 사랑합니다! 특히 아래 게임들을 즐겨 해요.
-    * **트릭컬 Re:vive** (볼따구 최고...!)
-    * **리버스: 1999** (분위기와 스토리에 진심입니다.)
+* **Subculture:** 보컬로이드(Vocaloid)와 서브컬쳐 전반을 매우 좋아합니다. 🎵
+* **Favorite Games:** * **트릭컬 Re:vive** (독특한 아트워크와 게임성에 관심이 많습니다.)
+    * **리버스: 1999** (분위기 있는 서사와 연출을 공부하고 있습니다.)
 
----
 
-### 🛠️ Tech Stack (Learning...)
-*아직 배우는 단계지만, 차근차근 채워나가고 있습니다!*
+### 🛠️ Tech Stack & Learning
+현재 주력 언어와 함께, 꿈을 위해 유니티를 열공하고 있습니다! 🚀
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Unity_공부_중-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
 </p>
 
 ---
 
+### 📬 Contact & Channels
+언제든 연락 주시고 함께 성장해요!
+
+- 📧 **Email:** [20261113@dsm.hs.kr](mailto:20261113@dsm.hs.kr)
+- 📱 **Phone:** 010-7528-6753
+
+---
+
 ### 📊 Github Stats
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=수민님의_깃허브_아이디&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=수민님의_깃허브_아이디&layout=compact&theme=radical)
+![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=수민님의_아이디&show_icons=true&theme=radical)
