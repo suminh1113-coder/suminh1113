@@ -32,6 +32,3 @@
 - 📱 **Phone:** 010-7528-6753
 
 ---
-
-### 📊 Github Stats
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminh1113&show_icons=true&theme=radical)
