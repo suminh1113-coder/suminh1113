@@ -11,16 +11,18 @@
 좋아하는 것에서 영감을 얻어 코드로 구현하는 것을 즐깁니다.
 
 * **Subculture:** 보컬로이드(Vocaloid)와 서브컬쳐 전반을 매우 좋아합니다. 🎵
-* **Favorite Games:** * **트릭컬 Re:vive** (독특한 아트워크와 게임성에 관심이 많습니다.)
+* **Favorite Games:** 
+    * **트릭컬 Re:vive** (독특한 아트워크와 게임성에 관심이 많습니다.)
     * **리버스: 1999** (분위기 있는 서사와 연출을 공부하고 있습니다.)
 
+---
 
 ### 🛠️ Tech Stack & Learning
-현재 주력 언어와 함께, 꿈을 위해 유니티를 열공하고 있습니다! 🚀
+현재 C#과 유니티를 중심으로 꿈을 향해 열공하고 있습니다! 🚀
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Unity_공부_중-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=Unity&logoColor=white"/>
 </p>
 
 ---
@@ -30,5 +32,4 @@
 
 - 📧 **Email:** [20261113@dsm.hs.kr](mailto:20261113@dsm.hs.kr)
 - 📱 **Phone:** 010-7528-6753
-
 ---
